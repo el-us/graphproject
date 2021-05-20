@@ -1,3 +1,6 @@
 micronaut:
   application:
     name: graphproject
+  server:
+    cors:
+      enabled: true
